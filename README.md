@@ -4,15 +4,14 @@ Come join me on my journey of Wes Bos's 30 Day Vanilla JS Code Challenge! Where 
 <br></br>
 ### Day 6 Challenge of Javascript30
 
+
+
 ## Type Ahead
-
-
- 
 
 ![ScreenShot](./images/typeAhead.png)
 
 ----
 ### What I learned/refresher:
 
-
+- 
 Starter code from [Javascript 30 Challenge](https://github.com/wesbos/JavaScript30)
